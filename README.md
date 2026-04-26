@@ -12,7 +12,7 @@ It is not only a resume page. It is built to highlight real project work, especi
 
 ## Featured Project
 
-### CodeGuide — Guided JavaScript Learning Platform
+### CodeGuide - Guided JavaScript Learning Platform
 
 CodeGuide is a full-stack JavaScript learning platform MVP focused on guided beginner learning.
 
